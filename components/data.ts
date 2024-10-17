@@ -8,7 +8,7 @@ export interface Order {
 export const ORDERS: Order[] = [
   {
     id: "412093",
-    name: "Apple Watch Ultra 2",
+    name: "Apple Watch Ultra 2", 
     orderedAt: "2024-08-26",
     image: "watch.png",
   },
