@@ -19,7 +19,7 @@ yarn create next-app --example https://github.com/vercel-labs/ai-sdk-preview-rou
 ```
 
 ```bash
-pnpm create next-app --example https://github.com/vercel-labs/ai-sdk-preview-roundtrips ai-sdk-preview-roundtrips-example
+pnpm create next-app --example https://github.com/vercel-labs/ai-sdk-preview-roundtrips ai-sdk-preview-roundtrips-example 
 ```
 
 To run the example locally you need to:
