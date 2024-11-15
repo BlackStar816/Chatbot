@@ -14,7 +14,7 @@ Run [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/c
 npx create-next-app --example https://github.com/vercel-labs/ai-sdk-preview-roundtrips ai-sdk-preview-roundtrips-example 
 ```
 
-```bash
+```bash 
 yarn create next-app --example https://github.com/vercel-labs/ai-sdk-preview-roundtrips ai-sdk-preview-roundtrips-example
 ```
 
